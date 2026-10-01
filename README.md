@@ -1,2 +1,2 @@
 # twAI-hub
-Testing twAIhub
+Testing twAIhub - AI Funds Manager
